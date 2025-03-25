@@ -10,11 +10,11 @@ const config = {
       assets: 'build'
     }),
     paths: {
-      base: "/niki-vis-5609"  // ✅ Correct for GitHub Pages
+      base: "/niki-vis-5609"  // ✅ Base path for GitHub Pages
     },
     appDir: "_app",
     prerender: {
-      default: true  // ✅ Ensures all pages are pre-rendered for static hosting
+      entries: ["*"]  // ✅ Pre-renders all pages for static deployment
     }
   }
 };
