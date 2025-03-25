@@ -7,13 +7,15 @@ const config = {
   kit: {
     adapter: adapter({
       pages: 'build',
-      assets: 'build',
-      fallback: 'index.html'  // 👈 Fixes 404 errors on routes like /A1
+      assets: 'build'
     }),
     paths: {
-      base: "/niki-vis-5609"  // 👈 Base path for GitHub Pages
+      base: "/niki-vis-5609"  // ✅ Correct for GitHub Pages
     },
-    appDir: "_app"
+    appDir: "_app",
+    prerender: {
+      default: true  // ✅ Ensures all pages are pre-rendered for static hosting
+    }
   }
 };
 
