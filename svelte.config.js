@@ -11,7 +11,7 @@ const config = {
       fallback: 'index.html'  // 👈 Fixes 404 errors on routes like /A1
     }),
     paths: {
-      base: "/niki-vis-5609-main-2"  // 👈 Base path for GitHub Pages
+      base: "/niki-vis-5609"  // 👈 Base path for GitHub Pages
     },
     appDir: "_app"
   }

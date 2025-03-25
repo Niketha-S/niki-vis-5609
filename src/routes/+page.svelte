@@ -12,18 +12,18 @@
 <!-- Alternative approach for external links -->
 <!-- <h1>Niketha's Assignments</h1> 
 
-<a href="/niki-vis-5609-main-2/A0" target="_blank" rel="noopener noreferrer">
+<a href="/niki-vis-5609/A0" target="_blank" rel="noopener noreferrer">
   A0<br>
 </a>
 
-<a href="/niki-vis-5609-main-2/A1" target="_blank" rel="noopener noreferrer">
+<a href="/niki-vis-5609/A1" target="_blank" rel="noopener noreferrer">
   A1
 </a>
 
-<a href="/niki-vis-5609-main-2/A2" target="_blank" rel="noopener noreferrer">
+<a href="/niki-vis-5609/A2" target="_blank" rel="noopener noreferrer">
   A2
 </a>
 
-<a href="/niki-vis-5609-main-2/A3" target="_blank" rel="noopener noreferrer">
+<a href="/niki-vis-5609/A3" target="_blank" rel="noopener noreferrer">
   A3
 </a> -->
